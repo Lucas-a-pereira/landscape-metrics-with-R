@@ -12,10 +12,4 @@ Each map represents the location of a primate community and forest cover around 
 
 ![alt text](https://github.com/Lucas-a-pereira/landscape-metrics-with-R/blob/main/map_com_146_buf_4000m.png?raw=true)
 
-"co" is the community id
-"bf" is the buffer radius
-"pl" is percentage of landscape
-"np" is number of patches
-"ed" is edge density
-"si" is splitting index
-"patch" is mean of patch area
+"co" is the community id; "bf" is the buffer radius; "pl" is percentage of landscape; "np" is number of patches; "ed" is edge density; "si" is splitting index; "patch" is mean of patch area.
